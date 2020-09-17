@@ -21,23 +21,30 @@ assignees: ''
 - [ ] Access to Kusto cluster has been granted
 - [ ] Azure Advisor team is aware
 - [ ] Authoring started
-- [ ] Authoring completed
 - [ ] Recommendation and backing query have been documented in [fta-wip repo](https://github.com/Azure/fta-wip/tree/master/Advisor) (for an example, [see here](https://github.com/Azure/fta-wip/tree/master/Advisor/Recommendations/advisorrecommendation.networkapplicationgateways))
+- [ ] Recommendation tested locally by running query
+- [ ] Authoring completed
+- [ ] [Metadata](https://ace-docs.azurewebsites.net/docs/articles/advisor/onboarding_guidance.html) received from PG to prep for submission to [Advisor Self-Help repo](https://github.com/Azure/SelfHelpContent)
+- [ ] PR made to [Advisor Self-Help repo](https://github.com/Azure/SelfHelpContent)
+- [ ] Tested in staging environment (taking care of naming conventions)
+- [ ] Published to production
 
-**Common Pattern**
-<!-- Outline the common pattern this architecture covers -->
+**Tracking**
 
-**Frequency of use**
-<!-- How common will this contribution be leveraged by customers. For Architecture what level of use within last 90 days, for Automation what level of use within last week -->
+***Link to fta-wip where this is being authored***
+<!-- Once authoring starts, where can one find the implementation -->
 
-**Existing content**
-<!-- Is there any existing content this will be modifying or leveraging to complete -->
+***Link to Pull-Request towards self-help repo***
+<!-- Once PR is made for onboarding, where can one find the PR -->
+
 
 **Notes**
 <!-- Provide any additional notes relevant to the contribution -->
 
 **Useful Links**
-
+- [Process to submit Azure Recommendation](https://github.com/Azure/fta-wip/tree/master/Advisor)
+- [Advisor internal documentation](https://aka.ms/advisordocs)
+- [Onboarding process](https://ace-docs.azurewebsites.net/docs/articles/advisor/onboarding_overview.html)
 
 ---
 #### Contribution metadata
