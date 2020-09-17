@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Content definitions
+    url: https://github.com/Azure/fta-wiki/blob/mlavery-contentcontribution/docs/contentcontributionprogram/contenttargets.md
+    about: Do you need help with the defintion of possible content targets?  
+  - name: Architecture definition
+    url: https://github.com/Azure/fta-wiki/blob/mlavery-contentcontribution/docs/contentcontributionprogram/contenttargets.md#fta-okr-architectures
+    about: Not sure what constitues an Architecture document, follow this guidance.
+  - name: Automation definition
+    url: https://github.com/Azure/fta-wiki/blob/mlavery-contentcontribution/docs/contentcontributionprogram/contenttargets.md#fta-okr-automations
+    about: Not sure what constitues an Automation, follow this guidance.
+  - name: Engineering Enablement Team
+    url: https://github.com/Azure/fta-wiki/blob/mlavery-contentcontribution/docs/contentcontributionprogram.md#office-hours
+    about: For assistance please contact the Engineering Enablement Team, or join the regular office hours we host.
